@@ -11,7 +11,7 @@ A scalable, fault-tolerant, and secure cloud backend designed for "Hive"—a uni
 
 The system employs a serverless-first, hybrid cloud architecture on AWS designed to balance real-time responsiveness, transactional consistency, and cost-efficient scalability.
 
-![Hive AWS Architecture Diagram](./architecture-diagram.png)
+![Hive AWS Architecture Diagram](images/architecture-diagram.png)
 
 ---
 
